@@ -13,6 +13,7 @@
 		038EADC819CAB10300107379 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 038EADC719CAB10300107379 /* Images.xcassets */; };
 		038EADCB19CAB10300107379 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 038EADC919CAB10300107379 /* LaunchScreen.xib */; };
 		038EADD719CAB10300107379 /* CoreImageTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 038EADD619CAB10300107379 /* CoreImageTests.swift */; };
+		038EADE119CE201200107379 /* mall.png in Resources */ = {isa = PBXBuildFile; fileRef = 038EADE019CE201200107379 /* mall.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		038EADD019CAB10300107379 /* CoreImageTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CoreImageTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		038EADD519CAB10300107379 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		038EADD619CAB10300107379 /* CoreImageTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreImageTests.swift; sourceTree = "<group>"; };
+		038EADE019CE201200107379 /* mall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mall.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		038EADBE19CAB10300107379 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				038EADE019CE201200107379 /* mall.png */,
 				038EADBF19CAB10300107379 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -195,6 +198,7 @@
 				038EADC619CAB10300107379 /* Main.storyboard in Resources */,
 				038EADCB19CAB10300107379 /* LaunchScreen.xib in Resources */,
 				038EADC819CAB10300107379 /* Images.xcassets in Resources */,
+				038EADE119CE201200107379 /* mall.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
